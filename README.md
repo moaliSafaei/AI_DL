@@ -1,6 +1,6 @@
 # AI_DL
 
-Predicting Housing Prices: A Practical Example
+## Predicting Housing Prices: A Practical Example
 In this illustrative example, we delve into predicting housing prices using machine learning techniques. Our dataset comprises various features related to housing, including the crucial “Price” column. Let’s break down the steps involved:
 
 Data Collection and Exploration:
